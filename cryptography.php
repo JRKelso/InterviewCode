@@ -7,7 +7,7 @@ function decrypt ($ciphertext, $key) {
 	return $e;
 }
 
-$key = "";
+$key = "FAKE KEY";
 
 $errors = "";
 $success = "";
